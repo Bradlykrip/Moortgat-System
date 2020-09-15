@@ -5,7 +5,7 @@ Rednut is a logic based and module based programming language taking advantage o
 
 NinePoint is a kernel designed to be super scalable and super secure. It comes with a domain specific language for writing drivers. NinePoint is based on fos (factored operating system) and uses declarative config files. NinePoint is written in Rednut.
 
-Thumbrake is a tool for rednut that allows it to compile on different platforms. Thumbrak allows you to describe assembly languages on different architectures so that one compiler can be used on every architecture. Thumbrake also allows NinePoint to compile to any platform.
+Thumbrake is a tool for rednut that allows it to compile on different platforms. Thumbrake allows you to describe assembly languages on different architectures so that one compiler can be used on every architecture. Thumbrake also allows NinePoint to compile to any platform.
 
 ThudThud is a 3d graphics library written in Rednut and integrated into Ninepoint.
 
