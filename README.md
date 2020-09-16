@@ -17,6 +17,6 @@ Dialetheia is a library for crazy fast encryption library written in Rednut.
 
 Uteriss is a Bignum library written in Rednut.
 
-Asswhole is a web framework written in Rednut
+Asswhole is a web framework written in Rednut.
 
-Felcher is an automatic documentation tool for Rednut
+Felcher is an automatic documentation tool for Rednut.
