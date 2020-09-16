@@ -10,3 +10,5 @@ Thumbrake is a tool for rednut that allows it to compile on different platforms.
 ThudThud is a 3d graphics library written in Rednut and integrated into Ninepoint.
 
 Foxxy is a 3d game engine written in Rednut taking advantage of ThudThud.
+
+Breyer is a scientific computing tool written in Rednut.
