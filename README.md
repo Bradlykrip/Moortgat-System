@@ -12,3 +12,11 @@ ThudThud is a 3d graphics library written in Rednut and integrated into Ninepoin
 Foxxy is a 3d game engine written in Rednut taking advantage of ThudThud.
 
 Breyer is a scientific computing tool written in Rednut.
+
+Dialetheia is a library for crazy fast encryption library written in Rednut.
+
+Uteriss is a Bignum library written in Rednut.
+
+Asswhole is a web framework written in Rednut
+
+Felcher is an automatic documentation tool for Rednut
